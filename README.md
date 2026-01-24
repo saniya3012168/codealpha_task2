@@ -18,3 +18,12 @@ patterns, trends, correlations, and factors affecting house prices.
 - NumPy
 - Matplotlib
 - Seaborn
+
+## 📁 Project Structure
+codealpha_task2/
+│
+├── eda_house_price.py        # Main Python script for Exploratory Data Analysis
+├── Housing.csv               # Dataset used for house price analysis
+├── README.md                 # Project documentation
+├── requirements.txt          # List of required Python libraries
+└── .gitignore     
